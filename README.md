@@ -4,6 +4,9 @@ Project title
 
 BMI Calculator
 
+Requirements to use
+Python installed in your machine
+
 How to use?
 
 Please enter the number of users you want to calculate.
