@@ -4,7 +4,8 @@ Project title
 
 BMI Calculator
 
-Requirements to use
+Requirements to use - 
+
 Python installed in your machine
 
 How to use?
