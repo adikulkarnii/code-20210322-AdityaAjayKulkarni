@@ -6,7 +6,7 @@ BMI Calculator
 
 Requirements to use - 
 
-Python installed in your machine
+Python3 installed in your machine
 
 How to use?
 
