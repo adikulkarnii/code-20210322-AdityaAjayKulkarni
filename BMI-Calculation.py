@@ -1,13 +1,13 @@
 def category(BMI):
     if BMI <= 18.4:
         return "Underweight"
-    if 18.5 < BMI < 24.9: 
+    if 18.5 <= BMI <= 24.9: 
         return "Normal Weight"
-    if 25 < BMI < 29.9:
+    if 25 <= BMI <= 29.9:
         return "Overweigth Moderately"
-    if 30 < BMI < 34.9:
+    if 30 <= BMI <= 34.9:
         return "Obese"
-    if 35 < BMI < 39.9:
+    if 35 <= BMI <= 39.9:
         return "Severely Obese"
     if BMI > 40.0:
         return "Very Severely Obese"
@@ -15,13 +15,13 @@ def category(BMI):
 def risk(BMI):
     if BMI <= 18.4:
         return "Malnutrition Risk"
-    if 18.5 < BMI < 24.9: 
+    if 18.5 <= BMI <= 24.9: 
         return "Low Risk"
-    if 25 < BMI < 29.9:
+    if 25 <= BMI <= 29.9:
         return "Enhanced Risk"
-    if 30 < BMI < 34.9:
+    if 30 <= BMI <= 34.9:
         return "Medium Risk"
-    if 35 < BMI < 39.9:
+    if 35 <= BMI <= 39.9:
         return "High Risk"
     if BMI > 40.0:
         return "Very high Risk"
