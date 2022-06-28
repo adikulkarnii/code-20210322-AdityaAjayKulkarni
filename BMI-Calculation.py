@@ -36,6 +36,7 @@ def risk_analysis(l):
         i['BMI'] = BMI
         i['Category'] = cat
         i['Health Risk'] = rsk
+        print("Risk Analysis Completed")
 
 no_of_users = int(input("Please input no of users: "))
 l = []
