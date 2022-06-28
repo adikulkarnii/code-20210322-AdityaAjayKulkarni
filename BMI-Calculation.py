@@ -50,5 +50,5 @@ try:
         print('------------------------------------------------------------------------------')
 except:
     print("Please enter valid details of user")
+
 risk_analysis(l)
-print(l)
